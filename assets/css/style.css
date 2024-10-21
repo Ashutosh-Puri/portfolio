@@ -1468,7 +1468,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-bottom: 0;
   }
 
-  .modal-avatar-box img { width: 65px; }
+  .modal-avatar-box img { width: 65px;}
 
   .modal-img-wrapper > img {
     display: block;
